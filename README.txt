@@ -5,8 +5,8 @@ Hence nodes can’t connect.
 
 Group Members:
 
-1) Ashvini Patel, UFID: 47949297
-2) Dhruv Mahajan, UFID: 42111994
+1) Ashvini Patel
+2) Dhruv Mahajan
 
 How to run the project:
 
